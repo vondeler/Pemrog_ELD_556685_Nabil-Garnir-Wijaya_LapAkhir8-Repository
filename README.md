@@ -1,1 +1,1 @@
-file nonbasesebelum adalah kode yang sama persis dengan kode dalam modul nomor 5, kemudian untuk file nonbaseupdate adalah file yang telah saya perbaiki dengan memberi base case.
+file nonbasesebelum adalah kode yang sama persis dengan kode dalam modul nomor 5 akan menghasilkan nilai 0 untuk semua bilangan positif dan 0, kemudian untuk file nonbaseupdate adalah file yang telah saya perbaiki dengan memberi base case yang sesuai sehingga hasilnya tidak nol. Selain itu saya memodifikasi jika base casenya tidak ada.
